@@ -1,0 +1,18 @@
+{
+    "Name" : "Prasad Lanka",
+    "DOB" : "06-06-1997",
+    "Addresses" : [
+        { 
+            "type" : "current",
+            "DoorNo" : "9/143-11",
+            "city" : "Machilipatnam",
+            "PIN" : 521001
+        },
+        {
+            "type": "perm",
+            "DoorNo": "9/143-11",
+            "city": "Machilipatnam",
+            "PIN": 521001
+        }
+    ]
+}
